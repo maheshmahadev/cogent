@@ -1,0 +1,4 @@
+Hibernate inheritance
+1.)Table per class - everything is put in a single table for eg: person,employee,owner - so we use a discriminator
+2.)Table per concrete class
+3.)Table per subclass
